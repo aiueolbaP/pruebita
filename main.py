@@ -8,7 +8,7 @@ def print_hi(name):
 
     print(f'Hi, {name}')
     print(f'Hi, {name}')
-    print('cabron')
+    print('holis')
 
 
 # Press the green button in the gutter to run the script.
